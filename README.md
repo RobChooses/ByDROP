@@ -17,7 +17,7 @@ To get started with Scaffold-ETH 2, follow the steps below:
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/scaffold-eth/scaffold-eth-2.git
+git clone https://github.com/RobChooses/ByDROP.git
 cd scaffold-eth-2
 yarn install
 ```
