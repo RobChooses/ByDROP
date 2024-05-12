@@ -18,7 +18,7 @@ To get started with Scaffold-ETH 2, follow the steps below:
 
 ```
 git clone https://github.com/RobChooses/ByDROP.git
-cd scaffold-eth-2
+cd ByDROP
 yarn install
 ```
 
